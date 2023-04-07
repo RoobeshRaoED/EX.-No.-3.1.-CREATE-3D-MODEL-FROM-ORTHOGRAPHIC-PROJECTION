@@ -42,5 +42,7 @@ To create a 3D model from given orthographic projection.
 
 ## OUTPUT:
 
+![](EX%203.1%20ROOBESH%20RAO.E.D%20IMG.jpg)
+
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
